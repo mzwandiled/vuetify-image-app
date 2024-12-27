@@ -1,0 +1,5 @@
+  - name: Vuepress deploy v2
+  # You may pin to the exact commit or the version.
+  # uses: robineco/vuepress-deploy@3b934e9ef58f3958aa1c28750bb0c09c36145efe
+  uses: robineco/vuepress-deploy@v2.1
+          
